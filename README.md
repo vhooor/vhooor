@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=EpicNerdBr&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Kotlin%20%7C%20C%23&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=180&section=header&text=Vhoor&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Java%20%7C%20Kotlin%20%7C%20C%23&descAlignY=58&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=B191FF&center=true&vCenter=true&width=560&lines=Desenvolvedor+Java%2C+Kotlin+e+C%23;Criador+da+linguagem+Noto" alt="Typing SVG" />
 
